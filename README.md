@@ -1,19 +1,28 @@
-# AI Resume Analyzer
+# AI Resume Analyzer & Job Matcher
 
-This project analyzes resumes and suggests:
-- Suitable job roles
-- Skill gaps
-- Improvement suggestions
+This project is an AI-powered tool that analyzes resumes and provides:
 
-## Features
-- Resume analysis
-- AI-based suggestions
-- Career insights
+- Suitable job role recommendations  
+- Skill gap identification for AI/ML roles  
+- Resume improvement suggestions  
+- Career insights based on profile  
 
-## Tech Used
-- Python
-- Prompt Engineering
-- AI Tools
+## 🚀 Features
+- Resume analysis using AI
+- AI-based career suggestions
+- Skill gap detection
+- Structured output using prompt engineering
 
-## Status
-Currently under development
+## 🛠 Tech Stack
+- Python  
+- Prompt Engineering  
+- AI Tools (ChatGPT / LLMs)
+
+## 📌 Future Improvements
+- Streamlit-based UI  
+- Resume upload (PDF support)  
+- Job description matching  
+- Scoring system for resumes  
+
+## 👨‍💻 Author
+Anshuman Sikdar  
